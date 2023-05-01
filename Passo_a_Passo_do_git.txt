@@ -28,4 +28,8 @@
 
 14 - git push //enviar para nuvem
 
+15 - reflog //verificar histórico de atualizaçãoes 
+
+
+
 
