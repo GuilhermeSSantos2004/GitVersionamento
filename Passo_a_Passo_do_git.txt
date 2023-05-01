@@ -24,3 +24,4 @@
 
 13- git show // mostra o que foi alterado no seu versionamento
 
+14 - git push //enviar para nuvem
