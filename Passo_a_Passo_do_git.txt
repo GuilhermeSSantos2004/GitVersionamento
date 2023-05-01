@@ -3,3 +3,5 @@
 2- ENTRAR NO DIRETÓRIO CRIADO
 
 3- git init //inicializa o git
+
+4- git config --global user.name //mostra usuário logado
