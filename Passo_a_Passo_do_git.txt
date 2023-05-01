@@ -22,3 +22,5 @@
 
 12-git log // verifica os versionamentos
 
+13- git show // mostra o que foi alterado no seu versionamento
+
