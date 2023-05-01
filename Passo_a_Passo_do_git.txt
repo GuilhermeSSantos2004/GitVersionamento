@@ -2,6 +2,8 @@
 
 2- ENTRAR NO DIRETÓRIO CRIADO
 
+2.2 - git bash here // abre o git no diretório 
+
 3- git init //inicializa o git
 
 4- git config --global user.name //mostra usuário logado
@@ -25,3 +27,5 @@
 13- git show // mostra o que foi alterado no seu versionamento
 
 14 - git push //enviar para nuvem
+
+
