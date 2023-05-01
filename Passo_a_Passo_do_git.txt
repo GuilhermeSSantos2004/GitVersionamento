@@ -5,3 +5,5 @@
 3- git init //inicializa o git
 
 4- git config --global user.name //mostra usuário logado
+
+5- git config --global user.email //mostra email logado
