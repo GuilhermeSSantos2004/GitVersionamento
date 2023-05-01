@@ -18,3 +18,5 @@
 
 10- git add exemplo.txt  // adiciona so arquivo
 
+11- git commit -m " primeira versao"   // envia a versão (versiona)
+
