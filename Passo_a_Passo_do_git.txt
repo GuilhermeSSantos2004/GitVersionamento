@@ -20,3 +20,5 @@
 
 11- git commit -m " primeira versao"   // envia a versão (versiona)
 
+12-git log // verifica os versionamentos
+
