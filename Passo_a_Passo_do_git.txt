@@ -7,3 +7,7 @@
 4- git config --global user.name //mostra usuário logado
 
 5- git config --global user.email //mostra email logado
+
+6- git config --global user.name "Wellinton"
+
+7-git config --global user.email well@gmail.com
