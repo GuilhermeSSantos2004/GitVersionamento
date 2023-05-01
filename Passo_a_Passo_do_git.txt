@@ -30,6 +30,10 @@
 
 15 - reflog //verificar histórico de atualizaçãoes 
 
+16 - git reset --hard <ID> // narvegar entre versões(local)
+
+
+
 
 
 
