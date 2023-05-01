@@ -8,6 +8,8 @@
 
 5- git config --global user.email //mostra email logado
 
-6- git config --global user.name "Wellinton"
+6- git config --global user.name "seu_nome"
 
-7-git config --global user.email well@gmail.com
+7-git config --global user.email seuemail@dominio.com
+
+8- git status   //serve para fornecer algumas informações importantes sobre a branch em que você estiver no momento, incluindo se ela está atualizada em relação à master e quais arquivos foram alterados.
