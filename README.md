@@ -61,3 +61,34 @@ Para stagear alterações em um arquivo, você utiliza o comando git add. Quando
 - `git fetch` // traz todas as modificações da nuvem para o repositório local sem juntar 
 - `git diff origin/master` 
 - `git pull` // junta as modificações do repositório local com o do GitHub
+
+
+
+
+
+
+- `git checkout` <nome-branch> // muda de branch 
+
+
+
+### 1. **Criar um Branch:**
+
+<img src="img/criandoRamificacao.jpg">
+
+Em Git, um branch é uma ramificação do código-fonte, permitindo que você trabalhe em diferentes partes de um projeto simultaneamente sem interferir no código principal. Para criar um novo branch, você usa o seguinte comando:
+- `git branch` // mostra todas as banch que existem 
+- `git branch` <nome-branch> //Cria uma branch 
+- `git log` --oneline --decorate  // INDICA onde está com HEAD
+
+### 2. **Mudar para um Branch:**
+
+Após criar um branch, você precisa mudar para ele para começar a trabalhar nele. Use o comando `git checkout` para fazer isso:
+
+`git checkout` <nome-do-branch>
+
+
+#### Marge 
+
+<img src="img/marge_branch.jpg">
+git merge <nome-da-banch> // Acontece uma junção da branch atual com na branch indicada no merge 
+
